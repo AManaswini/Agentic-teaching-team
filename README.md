@@ -1,5 +1,6 @@
 # 👨‍🏫 AI Teaching Agent Team
 
+A Streamlit application that brings together a team of specialized AI teaching agents who collaborate like a professional teaching faculty. Each agent acts as a specialized educator: a curriculum designer, learning path expert, resource librarian, and practice instructor - working together to create a complete educational experience through Google Docs.
 
 ## 🪄 Meet your AI Teaching Agent Team 
 
